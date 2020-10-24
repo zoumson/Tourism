@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tourism/static/css/main.cd631704.chunk.css",
+    "main.js": "/Tourism/static/js/main.f61b228e.chunk.js",
+    "main.js.map": "/Tourism/static/js/main.f61b228e.chunk.js.map",
+    "runtime-main.js": "/Tourism/static/js/runtime-main.9fe1d86a.js",
+    "runtime-main.js.map": "/Tourism/static/js/runtime-main.9fe1d86a.js.map",
+    "static/css/2.23154d62.chunk.css": "/Tourism/static/css/2.23154d62.chunk.css",
+    "static/js/2.999b6212.chunk.js": "/Tourism/static/js/2.999b6212.chunk.js",
+    "static/js/2.999b6212.chunk.js.map": "/Tourism/static/js/2.999b6212.chunk.js.map",
+    "static/js/3.4d537e78.chunk.js": "/Tourism/static/js/3.4d537e78.chunk.js",
+    "static/js/3.4d537e78.chunk.js.map": "/Tourism/static/js/3.4d537e78.chunk.js.map",
+    "index.html": "/Tourism/index.html",
+    "static/css/2.23154d62.chunk.css.map": "/Tourism/static/css/2.23154d62.chunk.css.map",
+    "static/css/main.cd631704.chunk.css.map": "/Tourism/static/css/main.cd631704.chunk.css.map",
+    "static/js/2.999b6212.chunk.js.LICENSE.txt": "/Tourism/static/js/2.999b6212.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe1d86a.js",
+    "static/css/2.23154d62.chunk.css",
+    "static/js/2.999b6212.chunk.js",
+    "static/css/main.cd631704.chunk.css",
+    "static/js/main.f61b228e.chunk.js"
+  ]
+}
