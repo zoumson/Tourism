@@ -1,0 +1,35 @@
+*:focus {
+  outline: none;
+}
+.normal-btn-inactive {
+  height: 100%;
+  width: 100%;
+  background: white;
+  color: gray;
+  border: none;
+  font-size: 17px;
+  font-weight: thick;
+}
+.normal-btn-active {
+  height: 100%;
+  width: 100%;
+  background: gray;
+  color: white;
+  border: none;
+  font-size: 17px;
+  font-weight: thick;
+}
+
+.select-btn-inactive {
+  height: 100%;
+  width: 100%;
+  background: white;
+  border: none;
+}
+.select-btn-active {
+  height: 100%;
+  width: 100%;
+  background: gray;
+  color: white;
+  border: none;
+}

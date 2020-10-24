@@ -1,0 +1,10 @@
+.mouse-over-container {
+  box-shadow: 2px 2px 5px grey, -2px -2px 5px grey;
+}
+
+.mouse-over-img {
+  transform: scale(1.01);
+}
+.trip-container {
+  transition-timing-function: all 1s ease-in-out;
+}
